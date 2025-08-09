@@ -60,7 +60,6 @@ header{
 }
 .action_bar {
     display: flex;
-    min-width: 200px;
     justify-content: left;
 }
 .action_container {
