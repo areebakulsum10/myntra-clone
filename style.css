@@ -15,7 +15,7 @@ header{
     height: 45px;
 }
 .logo_container{
-    margin-left: 4%;
+    margin-left: 3%;
 }
 .action_bar{
     margin-right: 4%;
@@ -60,7 +60,8 @@ header{
 }
 .action_bar {
     display: flex;
-    justify-content: left;
+    justify-content:center;
+    margin:0%;
 }
 .action_container {
     display: flex;
